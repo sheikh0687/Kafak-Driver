@@ -7,23 +7,122 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A5A25E542C6F624400640AD0 /* RatingReviewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5A25E522C6F624400640AD0 /* RatingReviewCell.xib */; };
+		A5A25E552C6F624400640AD0 /* RatingReviewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5A25E532C6F624400640AD0 /* RatingReviewCell.swift */; };
+		A5A25E592C6F638D00640AD0 /* WithdrawCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5A25E572C6F638D00640AD0 /* WithdrawCell.swift */; };
+		A5A25E5A2C6F638D00640AD0 /* WithdrawCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5A25E582C6F638D00640AD0 /* WithdrawCell.xib */; };
+		CF11288A2C6A3DE500AAC713 /* OfferDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1128892C6A3DE500AAC713 /* OfferDetailVC.swift */; };
+		CF3219F62C6A177D0027A4AC /* RequestCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF3219F52C6A177D0027A4AC /* RequestCell.xib */; };
+		CF3219F72C6A177D0027A4AC /* RequestCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF3219F42C6A177D0027A4AC /* RequestCell.swift */; };
+		CF3219F92C6A1EF80027A4AC /* NotificationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF3219F82C6A1EF80027A4AC /* NotificationVC.swift */; };
+		CF3219FD2C6A1FDC0027A4AC /* NotificationCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF3219FC2C6A1FDC0027A4AC /* NotificationCell.xib */; };
+		CF3219FE2C6A1FDC0027A4AC /* NotificationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF3219FB2C6A1FDC0027A4AC /* NotificationCell.swift */; };
+		CF321A002C6A26360027A4AC /* SettingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF3219FF2C6A26360027A4AC /* SettingVC.swift */; };
+		CF5CA2972C6A09DC0066B650 /* LandingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5CA2952C6A09DC0066B650 /* LandingCell.swift */; };
+		CF5CA2982C6A09DC0066B650 /* LandingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF5CA2962C6A09DC0066B650 /* LandingCell.xib */; };
+		CF5CA29D2C6A0F8F0066B650 /* DriverTabBarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5CA29C2C6A0F8F0066B650 /* DriverTabBarVC.swift */; };
+		CF5CA29F2C6A0FBD0066B650 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5CA29E2C6A0FBD0066B650 /* HomeVC.swift */; };
+		CF5CA2A22C6A10B90066B650 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5CA2A12C6A10B90066B650 /* Extension.swift */; };
+		CF5CA2A52C6A10C90066B650 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF5CA2A42C6A10C90066B650 /* Constant.swift */; };
+		CF6EB8E6C49CE0E72F6A41FC /* Pods_Kafak_Driver.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5146910AEE85786DD84423A9 /* Pods_Kafak_Driver.framework */; };
+		CFA5C4E92C6CB4B700369EBB /* RatingReviewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA5C4E82C6CB4B700369EBB /* RatingReviewVC.swift */; };
+		CFA5C4EB2C6CB4D500369EBB /* WalletVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA5C4EA2C6CB4D500369EBB /* WalletVC.swift */; };
+		CFA5C4ED2C6CB4F100369EBB /* ChangePasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA5C4EC2C6CB4F100369EBB /* ChangePasswordVC.swift */; };
+		CFA5C4EF2C6CB51100369EBB /* EditProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA5C4EE2C6CB51100369EBB /* EditProfileVC.swift */; };
+		CFA5C4F12C6CB52D00369EBB /* HelpVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA5C4F02C6CB52D00369EBB /* HelpVC.swift */; };
+		CFA5C4F32C6CB77D00369EBB /* Ext+Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA5C4F22C6CB77D00369EBB /* Ext+Navigation.swift */; };
 		CFBD96412C6A05EB00847C29 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBD96402C6A05EB00847C29 /* AppDelegate.swift */; };
-		CFBD96432C6A05EB00847C29 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBD96422C6A05EB00847C29 /* SceneDelegate.swift */; };
-		CFBD96452C6A05EB00847C29 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBD96442C6A05EB00847C29 /* ViewController.swift */; };
 		CFBD96482C6A05EB00847C29 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CFBD96472C6A05EB00847C29 /* Base */; };
 		CFBD964A2C6A05ED00847C29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFBD96492C6A05ED00847C29 /* Assets.xcassets */; };
 		CFBD964D2C6A05ED00847C29 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CFBD964C2C6A05ED00847C29 /* Base */; };
+		CFBD965F2C6A092800847C29 /* LandingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBD965E2C6A092800847C29 /* LandingVC.swift */; };
+		CFBD96632C6A092F00847C29 /* SignupVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBD96602C6A092F00847C29 /* SignupVC.swift */; };
+		CFBD96642C6A092F00847C29 /* ForgotPasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBD96612C6A092F00847C29 /* ForgotPasswordVC.swift */; };
+		CFBD96652C6A092F00847C29 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBD96622C6A092F00847C29 /* LoginVC.swift */; };
+		CFD1BECD2CA6B2C70024230C /* SettingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD1BECC2CA6B2C70024230C /* SettingViewModel.swift */; };
+		CFD1BECF2CA6B5670024230C /* Offers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD1BECE2CA6B5670024230C /* Offers.swift */; };
+		CFEA274B2CA67A1100681A72 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA274A2CA67A1100681A72 /* LoginViewModel.swift */; };
+		CFEA274E2CA67B1C00681A72 /* R.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA274D2CA67B1C00681A72 /* R.generated.swift */; };
+		CFEA27552CA67BB200681A72 /* DatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA27502CA67BB200681A72 /* DatePicker.swift */; };
+		CFEA27562CA67BB200681A72 /* CameraHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA27512CA67BB200681A72 /* CameraHandler.swift */; };
+		CFEA27572CA67BB200681A72 /* Services.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA27522CA67BB200681A72 /* Services.swift */; };
+		CFEA27582CA67BB200681A72 /* Switcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA27532CA67BB200681A72 /* Switcher.swift */; };
+		CFEA27592CA67BB200681A72 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA27542CA67BB200681A72 /* Utility.swift */; };
+		CFEA275C2CA67C0E00681A72 /* InternetUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA275B2CA67C0E00681A72 /* InternetUtility.swift */; };
+		CFEA27632CA67C3A00681A72 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = CFEA275F2CA67C3A00681A72 /* Reachability.m */; };
+		CFEA27642CA67C3A00681A72 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = CFEA27602CA67C3A00681A72 /* MBProgressHUD.m */; };
+		CFEA27682CA67D7200681A72 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA27672CA67D7200681A72 /* LocationManager.swift */; };
+		CFEA276C2CA67DB700681A72 /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA276A2CA67DB700681A72 /* Router.swift */; };
+		CFEA276D2CA67DB700681A72 /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA276B2CA67DB700681A72 /* Api.swift */; };
+		CFEA276F2CA67DCE00681A72 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA276E2CA67DCE00681A72 /* Login.swift */; };
+		CFEA27732CA680BA00681A72 /* ForgotPasswordViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA27722CA680BA00681A72 /* ForgotPasswordViewModel.swift */; };
+		CFEA27752CA6811300681A72 /* SignupViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA27742CA6811300681A72 /* SignupViewModel.swift */; };
+		CFEA27772CA6833B00681A72 /* Basic.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA27762CA6833B00681A72 /* Basic.swift */; };
+		CFEA27792CA683B700681A72 /* ChangePasswordViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA27782CA683B700681A72 /* ChangePasswordViewModel.swift */; };
+		CFEA277B2CA6946D00681A72 /* EditProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEA277A2CA6946D00681A72 /* EditProfileViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5146910AEE85786DD84423A9 /* Pods_Kafak_Driver.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Kafak_Driver.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5A25E522C6F624400640AD0 /* RatingReviewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RatingReviewCell.xib; sourceTree = "<group>"; };
+		A5A25E532C6F624400640AD0 /* RatingReviewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingReviewCell.swift; sourceTree = "<group>"; };
+		A5A25E572C6F638D00640AD0 /* WithdrawCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WithdrawCell.swift; sourceTree = "<group>"; };
+		A5A25E582C6F638D00640AD0 /* WithdrawCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WithdrawCell.xib; sourceTree = "<group>"; };
+		BA1DE38190474FECCF75AD41 /* Pods-Kafak Driver.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kafak Driver.debug.xcconfig"; path = "Target Support Files/Pods-Kafak Driver/Pods-Kafak Driver.debug.xcconfig"; sourceTree = "<group>"; };
+		CF1128892C6A3DE500AAC713 /* OfferDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfferDetailVC.swift; sourceTree = "<group>"; };
+		CF3219F42C6A177D0027A4AC /* RequestCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestCell.swift; sourceTree = "<group>"; };
+		CF3219F52C6A177D0027A4AC /* RequestCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RequestCell.xib; sourceTree = "<group>"; };
+		CF3219F82C6A1EF80027A4AC /* NotificationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationVC.swift; sourceTree = "<group>"; };
+		CF3219FB2C6A1FDC0027A4AC /* NotificationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationCell.swift; sourceTree = "<group>"; };
+		CF3219FC2C6A1FDC0027A4AC /* NotificationCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NotificationCell.xib; sourceTree = "<group>"; };
+		CF3219FF2C6A26360027A4AC /* SettingVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingVC.swift; sourceTree = "<group>"; };
+		CF5CA2952C6A09DC0066B650 /* LandingCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingCell.swift; sourceTree = "<group>"; };
+		CF5CA2962C6A09DC0066B650 /* LandingCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LandingCell.xib; sourceTree = "<group>"; };
+		CF5CA29C2C6A0F8F0066B650 /* DriverTabBarVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DriverTabBarVC.swift; sourceTree = "<group>"; };
+		CF5CA29E2C6A0FBD0066B650 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		CF5CA2A12C6A10B90066B650 /* Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		CF5CA2A42C6A10C90066B650 /* Constant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		CFA5C4E82C6CB4B700369EBB /* RatingReviewVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingReviewVC.swift; sourceTree = "<group>"; };
+		CFA5C4EA2C6CB4D500369EBB /* WalletVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletVC.swift; sourceTree = "<group>"; };
+		CFA5C4EC2C6CB4F100369EBB /* ChangePasswordVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangePasswordVC.swift; sourceTree = "<group>"; };
+		CFA5C4EE2C6CB51100369EBB /* EditProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileVC.swift; sourceTree = "<group>"; };
+		CFA5C4F02C6CB52D00369EBB /* HelpVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpVC.swift; sourceTree = "<group>"; };
+		CFA5C4F22C6CB77D00369EBB /* Ext+Navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ext+Navigation.swift"; sourceTree = "<group>"; };
 		CFBD963D2C6A05EB00847C29 /* Kafak Driver.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kafak Driver.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFBD96402C6A05EB00847C29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CFBD96422C6A05EB00847C29 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		CFBD96442C6A05EB00847C29 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CFBD96472C6A05EB00847C29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CFBD96492C6A05ED00847C29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CFBD964C2C6A05ED00847C29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CFBD964E2C6A05ED00847C29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFBD965E2C6A092800847C29 /* LandingVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingVC.swift; sourceTree = "<group>"; };
+		CFBD96602C6A092F00847C29 /* SignupVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupVC.swift; sourceTree = "<group>"; };
+		CFBD96612C6A092F00847C29 /* ForgotPasswordVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordVC.swift; sourceTree = "<group>"; };
+		CFBD96622C6A092F00847C29 /* LoginVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		CFD1BECC2CA6B2C70024230C /* SettingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewModel.swift; sourceTree = "<group>"; };
+		CFD1BECE2CA6B5670024230C /* Offers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offers.swift; sourceTree = "<group>"; };
+		CFEA274A2CA67A1100681A72 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
+		CFEA274D2CA67B1C00681A72 /* R.generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = R.generated.swift; sourceTree = SOURCE_ROOT; };
+		CFEA27502CA67BB200681A72 /* DatePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DatePicker.swift; sourceTree = "<group>"; };
+		CFEA27512CA67BB200681A72 /* CameraHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraHandler.swift; sourceTree = "<group>"; };
+		CFEA27522CA67BB200681A72 /* Services.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Services.swift; sourceTree = "<group>"; };
+		CFEA27532CA67BB200681A72 /* Switcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Switcher.swift; sourceTree = "<group>"; };
+		CFEA27542CA67BB200681A72 /* Utility.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
+		CFEA275B2CA67C0E00681A72 /* InternetUtility.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InternetUtility.swift; sourceTree = "<group>"; };
+		CFEA275E2CA67C3900681A72 /* Kafak Driver-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Kafak Driver-Bridging-Header.h"; sourceTree = "<group>"; };
+		CFEA275F2CA67C3A00681A72 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		CFEA27602CA67C3A00681A72 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		CFEA27612CA67C3A00681A72 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		CFEA27622CA67C3A00681A72 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		CFEA27672CA67D7200681A72 /* LocationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		CFEA276A2CA67DB700681A72 /* Router.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
+		CFEA276B2CA67DB700681A72 /* Api.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Api.swift; sourceTree = "<group>"; };
+		CFEA276E2CA67DCE00681A72 /* Login.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
+		CFEA27722CA680BA00681A72 /* ForgotPasswordViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordViewModel.swift; sourceTree = "<group>"; };
+		CFEA27742CA6811300681A72 /* SignupViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewModel.swift; sourceTree = "<group>"; };
+		CFEA27762CA6833B00681A72 /* Basic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Basic.swift; sourceTree = "<group>"; };
+		CFEA27782CA683B700681A72 /* ChangePasswordViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangePasswordViewModel.swift; sourceTree = "<group>"; };
+		CFEA277A2CA6946D00681A72 /* EditProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileViewModel.swift; sourceTree = "<group>"; };
+		D6EA99D36B9CB935339F8669 /* Pods-Kafak Driver.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kafak Driver.release.xcconfig"; path = "Target Support Files/Pods-Kafak Driver/Pods-Kafak Driver.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +130,91 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF6EB8E6C49CE0E72F6A41FC /* Pods_Kafak_Driver.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		926E0ECB55FECC7B5199E2B6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				BA1DE38190474FECCF75AD41 /* Pods-Kafak Driver.debug.xcconfig */,
+				D6EA99D36B9CB935339F8669 /* Pods-Kafak Driver.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		A5A25E512C6F621700640AD0 /* Rating */ = {
+			isa = PBXGroup;
+			children = (
+				A5A25E532C6F624400640AD0 /* RatingReviewCell.swift */,
+				A5A25E522C6F624400640AD0 /* RatingReviewCell.xib */,
+			);
+			path = Rating;
+			sourceTree = "<group>";
+		};
+		A5A25E562C6F634D00640AD0 /* Transaction */ = {
+			isa = PBXGroup;
+			children = (
+				A5A25E572C6F638D00640AD0 /* WithdrawCell.swift */,
+				A5A25E582C6F638D00640AD0 /* WithdrawCell.xib */,
+			);
+			path = Transaction;
+			sourceTree = "<group>";
+		};
+		CF3219F32C6A17660027A4AC /* Request */ = {
+			isa = PBXGroup;
+			children = (
+				CF3219F42C6A177D0027A4AC /* RequestCell.swift */,
+				CF3219F52C6A177D0027A4AC /* RequestCell.xib */,
+			);
+			path = Request;
+			sourceTree = "<group>";
+		};
+		CF3219FA2C6A1FC50027A4AC /* Notification */ = {
+			isa = PBXGroup;
+			children = (
+				CF3219FB2C6A1FDC0027A4AC /* NotificationCell.swift */,
+				CF3219FC2C6A1FDC0027A4AC /* NotificationCell.xib */,
+			);
+			path = Notification;
+			sourceTree = "<group>";
+		};
+		CF5CA2942C6A09B80066B650 /* Landing */ = {
+			isa = PBXGroup;
+			children = (
+				CF5CA2952C6A09DC0066B650 /* LandingCell.swift */,
+				CF5CA2962C6A09DC0066B650 /* LandingCell.xib */,
+			);
+			path = Landing;
+			sourceTree = "<group>";
+		};
+		CF5CA2A02C6A10AB0066B650 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				CF5CA2A12C6A10B90066B650 /* Extension.swift */,
+				CFA5C4F22C6CB77D00369EBB /* Ext+Navigation.swift */,
+			);
+			name = Extension;
+			sourceTree = "<group>";
+		};
+		CF5CA2A32C6A10BD0066B650 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				CF5CA2A42C6A10C90066B650 /* Constant.swift */,
+			);
+			name = Common;
+			sourceTree = "<group>";
+		};
 		CFBD96342C6A05EB00847C29 = {
 			isa = PBXGroup;
 			children = (
 				CFBD963F2C6A05EB00847C29 /* Kafak Driver */,
 				CFBD963E2C6A05EB00847C29 /* Products */,
+				926E0ECB55FECC7B5199E2B6 /* Pods */,
+				E269B5CEABA63F76E7ACD929 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -57,14 +230,185 @@
 			isa = PBXGroup;
 			children = (
 				CFBD96402C6A05EB00847C29 /* AppDelegate.swift */,
-				CFBD96422C6A05EB00847C29 /* SceneDelegate.swift */,
-				CFBD96442C6A05EB00847C29 /* ViewController.swift */,
-				CFBD96462C6A05EB00847C29 /* Main.storyboard */,
-				CFBD96492C6A05ED00847C29 /* Assets.xcassets */,
-				CFBD964B2C6A05ED00847C29 /* LaunchScreen.storyboard */,
+				CFBD96592C6A062A00847C29 /* Model */,
+				CFBD96562C6A060400847C29 /* Component */,
+				CFBD96582C6A061100847C29 /* Resource */,
+				CFBD96552C6A05FD00847C29 /* Controller */,
+				CFBD96542C6A05F500847C29 /* View */,
+				CFEA27472CA6795E00681A72 /* ViewModel */,
 				CFBD964E2C6A05ED00847C29 /* Info.plist */,
 			);
 			path = "Kafak Driver";
+			sourceTree = "<group>";
+		};
+		CFBD96542C6A05F500847C29 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CFBD965B2C6A063F00847C29 /* Cell */,
+				CFBD965A2C6A063500847C29 /* Storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		CFBD96552C6A05FD00847C29 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				CFBD965D2C6A066300847C29 /* Primary */,
+				CFBD965C2C6A065900847C29 /* Main */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		CFBD96562C6A060400847C29 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				CFEA27692CA67DAB00681A72 /* Http */,
+				CF5CA2A32C6A10BD0066B650 /* Common */,
+				CF5CA2A02C6A10AB0066B650 /* Extension */,
+				CFEA27662CA67D6500681A72 /* Location */,
+				CFEA275D2CA67C2900681A72 /* ThirdParty */,
+				CFEA275A2CA67C0100681A72 /* InternetUtility */,
+				CFEA274F2CA67BA000681A72 /* Utilities */,
+			);
+			name = Component;
+			sourceTree = "<group>";
+		};
+		CFBD96582C6A061100847C29 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				CFEA274D2CA67B1C00681A72 /* R.generated.swift */,
+				CFBD96492C6A05ED00847C29 /* Assets.xcassets */,
+			);
+			name = Resource;
+			sourceTree = "<group>";
+		};
+		CFBD96592C6A062A00847C29 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				CFEA276E2CA67DCE00681A72 /* Login.swift */,
+				CFEA27762CA6833B00681A72 /* Basic.swift */,
+				CFD1BECE2CA6B5670024230C /* Offers.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		CFBD965A2C6A063500847C29 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				CFBD964B2C6A05ED00847C29 /* LaunchScreen.storyboard */,
+				CFBD96462C6A05EB00847C29 /* Main.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		CFBD965B2C6A063F00847C29 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				A5A25E562C6F634D00640AD0 /* Transaction */,
+				A5A25E512C6F621700640AD0 /* Rating */,
+				CF3219FA2C6A1FC50027A4AC /* Notification */,
+				CF3219F32C6A17660027A4AC /* Request */,
+				CF5CA2942C6A09B80066B650 /* Landing */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		CFBD965C2C6A065900847C29 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				CF5CA29C2C6A0F8F0066B650 /* DriverTabBarVC.swift */,
+				CF5CA29E2C6A0FBD0066B650 /* HomeVC.swift */,
+				CF3219F82C6A1EF80027A4AC /* NotificationVC.swift */,
+				CF3219FF2C6A26360027A4AC /* SettingVC.swift */,
+				CF1128892C6A3DE500AAC713 /* OfferDetailVC.swift */,
+				CFA5C4E82C6CB4B700369EBB /* RatingReviewVC.swift */,
+				CFA5C4EA2C6CB4D500369EBB /* WalletVC.swift */,
+				CFA5C4EC2C6CB4F100369EBB /* ChangePasswordVC.swift */,
+				CFA5C4EE2C6CB51100369EBB /* EditProfileVC.swift */,
+				CFA5C4F02C6CB52D00369EBB /* HelpVC.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		CFBD965D2C6A066300847C29 /* Primary */ = {
+			isa = PBXGroup;
+			children = (
+				CFBD965E2C6A092800847C29 /* LandingVC.swift */,
+				CFBD96612C6A092F00847C29 /* ForgotPasswordVC.swift */,
+				CFBD96622C6A092F00847C29 /* LoginVC.swift */,
+				CFBD96602C6A092F00847C29 /* SignupVC.swift */,
+			);
+			name = Primary;
+			sourceTree = "<group>";
+		};
+		CFEA27472CA6795E00681A72 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				CFEA274A2CA67A1100681A72 /* LoginViewModel.swift */,
+				CFEA27722CA680BA00681A72 /* ForgotPasswordViewModel.swift */,
+				CFEA27742CA6811300681A72 /* SignupViewModel.swift */,
+				CFEA27782CA683B700681A72 /* ChangePasswordViewModel.swift */,
+				CFEA277A2CA6946D00681A72 /* EditProfileViewModel.swift */,
+				CFD1BECC2CA6B2C70024230C /* SettingViewModel.swift */,
+			);
+			name = ViewModel;
+			sourceTree = "<group>";
+		};
+		CFEA274F2CA67BA000681A72 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				CFEA27512CA67BB200681A72 /* CameraHandler.swift */,
+				CFEA27502CA67BB200681A72 /* DatePicker.swift */,
+				CFEA27522CA67BB200681A72 /* Services.swift */,
+				CFEA27532CA67BB200681A72 /* Switcher.swift */,
+				CFEA27542CA67BB200681A72 /* Utility.swift */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		CFEA275A2CA67C0100681A72 /* InternetUtility */ = {
+			isa = PBXGroup;
+			children = (
+				CFEA275B2CA67C0E00681A72 /* InternetUtility.swift */,
+			);
+			name = InternetUtility;
+			sourceTree = "<group>";
+		};
+		CFEA275D2CA67C2900681A72 /* ThirdParty */ = {
+			isa = PBXGroup;
+			children = (
+				CFEA27622CA67C3A00681A72 /* MBProgressHUD.h */,
+				CFEA27602CA67C3A00681A72 /* MBProgressHUD.m */,
+				CFEA27612CA67C3A00681A72 /* Reachability.h */,
+				CFEA275F2CA67C3A00681A72 /* Reachability.m */,
+				CFEA275E2CA67C3900681A72 /* Kafak Driver-Bridging-Header.h */,
+			);
+			name = ThirdParty;
+			sourceTree = "<group>";
+		};
+		CFEA27662CA67D6500681A72 /* Location */ = {
+			isa = PBXGroup;
+			children = (
+				CFEA27672CA67D7200681A72 /* LocationManager.swift */,
+			);
+			name = Location;
+			sourceTree = "<group>";
+		};
+		CFEA27692CA67DAB00681A72 /* Http */ = {
+			isa = PBXGroup;
+			children = (
+				CFEA276A2CA67DB700681A72 /* Router.swift */,
+				CFEA276B2CA67DB700681A72 /* Api.swift */,
+			);
+			name = Http;
+			sourceTree = "<group>";
+		};
+		E269B5CEABA63F76E7ACD929 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5146910AEE85786DD84423A9 /* Pods_Kafak_Driver.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +418,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CFBD96512C6A05ED00847C29 /* Build configuration list for PBXNativeTarget "Kafak Driver" */;
 			buildPhases = (
+				F522E4C53548F7096D4F91A6 /* [CP] Check Pods Manifest.lock */,
+				CFEA274C2CA67AE400681A72 /* ShellScript */,
 				CFBD96392C6A05EB00847C29 /* Sources */,
 				CFBD963A2C6A05EB00847C29 /* Frameworks */,
 				CFBD963B2C6A05EB00847C29 /* Resources */,
+				286FF9EC0BF30FA36C6049F2 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -99,6 +446,7 @@
 				TargetAttributes = {
 					CFBD963C2C6A05EB00847C29 = {
 						CreatedOnToolsVersion = 15.4;
+						LastSwiftMigration = 1540;
 					};
 				};
 			};
@@ -126,21 +474,128 @@
 			buildActionMask = 2147483647;
 			files = (
 				CFBD964A2C6A05ED00847C29 /* Assets.xcassets in Resources */,
+				CF5CA2982C6A09DC0066B650 /* LandingCell.xib in Resources */,
+				CF3219FD2C6A1FDC0027A4AC /* NotificationCell.xib in Resources */,
+				A5A25E5A2C6F638D00640AD0 /* WithdrawCell.xib in Resources */,
 				CFBD964D2C6A05ED00847C29 /* Base in Resources */,
+				A5A25E542C6F624400640AD0 /* RatingReviewCell.xib in Resources */,
 				CFBD96482C6A05EB00847C29 /* Base in Resources */,
+				CF3219F62C6A177D0027A4AC /* RequestCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		286FF9EC0BF30FA36C6049F2 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Kafak Driver/Pods-Kafak Driver-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Kafak Driver/Pods-Kafak Driver-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Kafak Driver/Pods-Kafak Driver-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CFEA274C2CA67AE400681A72 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$TEMP_DIR/rswift-lastrun",
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				$SRCROOT/R.generated.swift,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n\"$PODS_ROOT/R.swift/rswift\" generate \"$SRCROOT/R.generated.swift\"\n";
+		};
+		F522E4C53548F7096D4F91A6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Kafak Driver-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		CFBD96392C6A05EB00847C29 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CFBD96452C6A05EB00847C29 /* ViewController.swift in Sources */,
+				CFD1BECD2CA6B2C70024230C /* SettingViewModel.swift in Sources */,
+				CFEA27792CA683B700681A72 /* ChangePasswordViewModel.swift in Sources */,
+				CFBD96632C6A092F00847C29 /* SignupVC.swift in Sources */,
+				CF11288A2C6A3DE500AAC713 /* OfferDetailVC.swift in Sources */,
+				CF321A002C6A26360027A4AC /* SettingVC.swift in Sources */,
+				CF5CA29F2C6A0FBD0066B650 /* HomeVC.swift in Sources */,
+				CFEA27642CA67C3A00681A72 /* MBProgressHUD.m in Sources */,
+				CFA5C4EF2C6CB51100369EBB /* EditProfileVC.swift in Sources */,
+				CFEA27732CA680BA00681A72 /* ForgotPasswordViewModel.swift in Sources */,
 				CFBD96412C6A05EB00847C29 /* AppDelegate.swift in Sources */,
-				CFBD96432C6A05EB00847C29 /* SceneDelegate.swift in Sources */,
+				CFBD96652C6A092F00847C29 /* LoginVC.swift in Sources */,
+				CFEA27552CA67BB200681A72 /* DatePicker.swift in Sources */,
+				A5A25E592C6F638D00640AD0 /* WithdrawCell.swift in Sources */,
+				CF5CA2A22C6A10B90066B650 /* Extension.swift in Sources */,
+				CFA5C4F32C6CB77D00369EBB /* Ext+Navigation.swift in Sources */,
+				CFA5C4ED2C6CB4F100369EBB /* ChangePasswordVC.swift in Sources */,
+				CFA5C4E92C6CB4B700369EBB /* RatingReviewVC.swift in Sources */,
+				CFA5C4F12C6CB52D00369EBB /* HelpVC.swift in Sources */,
+				CFEA274B2CA67A1100681A72 /* LoginViewModel.swift in Sources */,
+				CFEA277B2CA6946D00681A72 /* EditProfileViewModel.swift in Sources */,
+				CFEA27772CA6833B00681A72 /* Basic.swift in Sources */,
+				CF5CA29D2C6A0F8F0066B650 /* DriverTabBarVC.swift in Sources */,
+				CFEA276C2CA67DB700681A72 /* Router.swift in Sources */,
+				CFEA276D2CA67DB700681A72 /* Api.swift in Sources */,
+				CF5CA2972C6A09DC0066B650 /* LandingCell.swift in Sources */,
+				CFEA27682CA67D7200681A72 /* LocationManager.swift in Sources */,
+				CFEA27572CA67BB200681A72 /* Services.swift in Sources */,
+				CFBD965F2C6A092800847C29 /* LandingVC.swift in Sources */,
+				CFD1BECF2CA6B5670024230C /* Offers.swift in Sources */,
+				CFEA276F2CA67DCE00681A72 /* Login.swift in Sources */,
+				CFA5C4EB2C6CB4D500369EBB /* WalletVC.swift in Sources */,
+				CFEA27752CA6811300681A72 /* SignupViewModel.swift in Sources */,
+				CFEA27592CA67BB200681A72 /* Utility.swift in Sources */,
+				CFEA274E2CA67B1C00681A72 /* R.generated.swift in Sources */,
+				CFBD96642C6A092F00847C29 /* ForgotPasswordVC.swift in Sources */,
+				CF5CA2A52C6A10C90066B650 /* Constant.swift in Sources */,
+				CF3219F72C6A177D0027A4AC /* RequestCell.swift in Sources */,
+				CF3219FE2C6A1FDC0027A4AC /* NotificationCell.swift in Sources */,
+				CFEA27632CA67C3A00681A72 /* Reachability.m in Sources */,
+				CFEA275C2CA67C0E00681A72 /* InternetUtility.swift in Sources */,
+				CFEA27562CA67BB200681A72 /* CameraHandler.swift in Sources */,
+				CF3219F92C6A1EF80027A4AC /* NotificationVC.swift in Sources */,
+				A5A25E552C6F624400640AD0 /* RatingReviewCell.swift in Sources */,
+				CFEA27582CA67BB200681A72 /* Switcher.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,12 +742,15 @@
 		};
 		CFBD96522C6A05ED00847C29 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BA1DE38190474FECCF75AD41 /* Pods-Kafak Driver.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 5TLAY9535B;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Kafak Driver/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -300,6 +758,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -307,20 +766,27 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Techimmense.Kafak-Driver";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "Kafak Driver/Kafak Driver-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		CFBD96532C6A05ED00847C29 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D6EA99D36B9CB935339F8669 /* Pods-Kafak Driver.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 5TLAY9535B;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Kafak Driver/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -328,6 +794,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -335,9 +802,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Techimmense.Kafak-Driver";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "Kafak Driver/Kafak Driver-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
