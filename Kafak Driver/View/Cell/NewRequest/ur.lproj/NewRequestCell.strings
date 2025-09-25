@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "6"; ObjectID = "4Cc-Wt-lJ2"; */
+"4Cc-Wt-lJ2.text" = "۶";
+
+/* Class = "UILabel"; text = "$20"; ObjectID = "6ZH-K0-5rF"; */
+"6ZH-K0-5rF.text" = "۲۰ ڈالر";
+
+/* Class = "UILabel"; text = "4.0"; ObjectID = "Gad-q2-9EE"; */
+"Gad-q2-9EE.text" = "۴٫۰";
+
+/* Class = "UILabel"; text = " Willion Shades"; ObjectID = "H19-yY-8uQ"; */
+"H19-yY-8uQ.text" = " ولیون شیڈز";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "J2E-qi-vbf"; */
+"J2E-qi-vbf.normalTitle" = "قبول کریں";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "Qcy-wN-VqQ"; */
+"Qcy-wN-VqQ.normalTitle" = "رد کریں";
+
+/* Class = "UILabel"; text = "2025-02-20 01:36:13"; ObjectID = "Vds-x0-LoK"; */
+"Vds-x0-LoK.text" = "۲۰۲۵-۰۲-۲۰ ۰۱:۳۶:۱۳";
+
+/* Class = "UILabel"; text = "Request status: Soon Request"; ObjectID = "b2c-8S-8BX"; */
+"b2c-8S-8BX.text" = "درخواست کی حالت: جلد درخواست";
+
+/* Class = "UIButton"; normalTitle = "Send Offer"; ObjectID = "hBc-DR-wjT"; */
+"hBc-DR-wjT.normalTitle" = "پیشکش بھیجیں";
+
+/* Class = "UILabel"; text = "Request for: Bricks (300 bricks)"; ObjectID = "kV6-wk-qTj"; */
+"kV6-wk-qTj.text" = "درخواست برائے: اینٹیں (۳۰۰ اینٹیں)";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "sfS-jU-Fnp"; */
+"sfS-jU-Fnp.text" = "۱";
+
+/* Class = "UILabel"; text = "3,690 Km"; ObjectID = "w0E-o0-41W"; */
+"w0E-o0-41W.text" = "۳٬۶۹۰ کلومیٹر";

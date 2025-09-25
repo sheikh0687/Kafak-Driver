@@ -1,0 +1,558 @@
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "0yU-F9-JI7"; */
+"0yU-F9-JI7.normalTitle" = "ہاں";
+
+/* Class = "UILabel"; text = "Order Date:"; ObjectID = "1K3-Nv-iul"; */
+"1K3-Nv-iul.text" = "آرڈر کی تاریخ:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1a4-mg-Ls7"; */
+"1a4-mg-Ls7.text" = "لیبل";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "2BM-hr-oO6"; */
+"2BM-hr-oO6.normalTitle" = "مسترد کریں";
+
+/* Class = "UITextField"; placeholder = "Enter amount"; ObjectID = "2HU-Ez-yHd"; */
+"2HU-Ez-yHd.placeholder" = "رقم درج کریں";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2Ir-7l-Qs2"; */
+"2Ir-7l-Qs2.text" = "لیبل";
+
+/* Class = "UILabel"; text = "Front View"; ObjectID = "2PA-wv-tAe"; */
+"2PA-wv-tAe.text" = "سامنے کا منظر";
+
+/* Class = "UILabel"; text = "How can we help you?"; ObjectID = "2Xh-Sk-DvQ"; */
+"2Xh-Sk-DvQ.text" = "ہم آپ کی کس طرح مدد کر سکتے ہیں؟";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "2cO-Yk-KV1"; */
+"2cO-Yk-KV1.placeholder" = "پاسورڈ کی تصدیق کریں";
+
+/* Class = "UITextField"; placeholder = "Enter"; ObjectID = "2zv-aB-Tpd"; */
+"2zv-aB-Tpd.placeholder" = "درج کریں";
+
+/* Class = "UILabel"; text = "SR 1509.09"; ObjectID = "3IW-jH-ot4"; */
+"3IW-jH-ot4.text" = "ریال 1509.09";
+
+/* Class = "UILabel"; text = "Your Balance"; ObjectID = "3Pp-bH-SxW"; */
+"3Pp-bH-SxW.text" = "آپ کا بیلنس";
+
+/* Class = "UILabel"; text = "4.0"; ObjectID = "3VB-3P-U0K"; */
+"3VB-3P-U0K.text" = "4.0";
+
+/* Class = "UIButton"; normalTitle = "ok"; ObjectID = "3w6-7O-Piv"; */
+"3w6-7O-Piv.normalTitle" = "ٹھیک ہے";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "4uO-Ht-ib1"; */
+"4uO-Ht-ib1.placeholder" = "پاسورڈ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4yb-zx-N90"; */
+"4yb-zx-N90.text" = "لیبل";
+
+/* Class = "UIButton"; normalTitle = "Select Delivery Type"; ObjectID = "5EO-FE-m0y"; */
+"5EO-FE-m0y.normalTitle" = "ترسیل کی قسم منتخب کریں";
+
+/* Class = "UITextField"; placeholder = "Mobile"; ObjectID = "5VC-Hz-YgI"; */
+"5VC-Hz-YgI.placeholder" = "موبائل";
+
+/* Class = "UILabel"; text = "Delivery Cost"; ObjectID = "6fQ-y4-jfb"; */
+"6fQ-y4-jfb.text" = "ترسیل کی قیمت";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "6pC-Yu-968"; */
+"6pC-Yu-968.title" = "ہوم";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "74m-wD-kxz"; */
+"74m-wD-kxz.text" = "سائن اپ کریں";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "7Cn-bx-nMQ"; */
+"7Cn-bx-nMQ.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "7NZ-fT-xcV"; */
+"7NZ-fT-xcV.normalTitle" = "منسوخ کریں";
+
+/* Class = "UIButton"; normalTitle = "Withdraw"; ObjectID = "7Ne-S2-3fk"; */
+"7Ne-S2-3fk.normalTitle" = "رقم نکالیں";
+
+/* Class = "UILabel"; text = "Request Status:"; ObjectID = "7Te-Fp-c5V"; */
+"7Te-Fp-c5V.text" = "درخواست کی حیثیت:";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "7ii-qT-DeE"; */
+"7ii-qT-DeE.normalTitle" = "محفوظ کریں";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "7mu-u5-aV5"; */
+"7mu-u5-aV5.normalTitle" = "جمع کریں";
+
+/* Class = "UILabel"; text = "Your trusted partner for all your construction needs"; ObjectID = "AOc-au-ksW"; */
+"AOc-au-ksW.text" = "آپ کے تمام تعمیراتی ضروریات کے لیے آپ کا قابل اعتماد ساتھی";
+
+/* Class = "UILabel"; text = "IBAN Number"; ObjectID = "APL-bo-EJn"; */
+"APL-bo-EJn.text" = "آئی بین نمبر";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "AQK-x9-QKG"; */
+"AQK-x9-QKG.placeholder" = "نیا پاسورڈ";
+
+/* Class = "UIButton"; normalTitle = "New Request"; ObjectID = "AnW-6R-6e7"; */
+"AnW-6R-6e7.normalTitle" = "نئی درخواست";
+
+/* Class = "UILabel"; text = "Pending(Awaiting Customer Approval)"; ObjectID = "Bda-pg-NQF"; */
+"Bda-pg-NQF.text" = "زیر التواء (گاہک کی منظوری کا انتظار ہے)";
+
+/* Class = "UILabel"; text = "Welcome! Please enter your information below and get started."; ObjectID = "D1Q-FP-Gui"; */
+"D1Q-FP-Gui.text" = "خوش آمدید! براہ کرم نیچے اپنی معلومات درج کریں اور شروعات کریں۔";
+
+/* Class = "UILabel"; text = "Confirm password"; ObjectID = "D5g-mg-EHE"; */
+"D5g-mg-EHE.text" = "پاسورڈ کی تصدیق کریں";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "EJR-8w-jdY"; */
+"EJR-8w-jdY.placeholder" = "پاسورڈ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EN1-J0-goK"; */
+"EN1-J0-goK.text" = "لیبل";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "ENf-sJ-jeC"; */
+"ENf-sJ-jeC.normalTitle" = "جمع کروائیں";
+
+/* Class = "UILabel"; text = "2025-02-06 02:53:23"; ObjectID = "EnP-t2-UYG"; */
+"EnP-t2-UYG.text" = "2025-02-06 02:53:23";
+
+/* Class = "UILabel"; text = "Receiving offers"; ObjectID = "FBp-fe-ykN"; */
+"FBp-fe-ykN.text" = "پیشکشیں موصول ہو رہی ہیں";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FEp-ro-AD6"; */
+"FEp-ro-AD6.text" = "لیبل";
+
+/* Class = "UITextView"; text = "Search Location"; ObjectID = "FHN-Cy-aLG"; */
+"FHN-Cy-aLG.text" = "مقام تلاش کریں";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "FdF-W7-nsk"; */
+"FdF-W7-nsk.text" = "خوش آمدید";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FuP-2h-4bT"; */
+"FuP-2h-4bT.text" = "لیبل";
+
+/* Class = "UILabel"; text = "Confirmed"; ObjectID = "Fxy-3t-uWZ"; */
+"Fxy-3t-uWZ.text" = "تصدیق شدہ";
+
+/* Class = "UILabel"; text = "Vehicle Images"; ObjectID = "GVm-Gz-D3a"; */
+"GVm-Gz-D3a.text" = "گاڑی کی تصاویر";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "HN0-nA-VzC"; */
+"HN0-nA-VzC.placeholder" = "نام درج کریں";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "I7f-US-d26"; */
+"I7f-US-d26.placeholder" = "ای میل";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "JR4-1u-CSh"; */
+"JR4-1u-CSh.text" = "انگریزی";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "Jc8-1o-TAd"; */
+"Jc8-1o-TAd.text" = "رازداری کی پالیسی";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "Jqp-rb-Phw"; */
+"Jqp-rb-Phw.text" = "پاسورڈ ری سیٹ کریں";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "LeQ-WY-Zi9"; */
+"LeQ-WY-Zi9.text" = "اطلاعات";
+
+/* Class = "UILabel"; text = "Find Address"; ObjectID = "N0Z-Yi-eOp"; */
+"N0Z-Yi-eOp.text" = "پتہ تلاش کریں";
+
+/* Class = "UITabBarItem"; title = "Notifications"; ObjectID = "NIp-YF-KR1"; */
+"NIp-YF-KR1.title" = "اطلاعات";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "OHn-zM-tzs"; */
+"OHn-zM-tzs.text" = "اکاؤنٹ حذف کریں";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "ORY-ad-YQw"; */
+"ORY-ad-YQw.normalTitle" = "چھوڑ دیں";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OkV-E6-iO1"; */
+"OkV-E6-iO1.text" = "لیبل";
+
+/* Class = "UILabel"; text = "Un-Available"; ObjectID = "P1G-zE-B5D"; */
+"P1G-zE-B5D.text" = "دستیاب نہیں";
+
+/* Class = "UILabel"; text = "Driving Experience"; ObjectID = "PP4-g7-Tqv"; */
+"PP4-g7-Tqv.text" = "ڈرائیونگ کا تجربہ";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "Pjh-Nm-lAJ"; */
+"Pjh-Nm-lAJ.placeholder" = "آخری نام";
+
+/* Class = "UILabel"; text = "Enter withdraw amount"; ObjectID = "QL4-fg-GqE"; */
+"QL4-fg-GqE.text" = "نکالی جانے والی رقم درج کریں";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "QP1-J2-tZ8"; */
+"QP1-J2-tZ8.text" = "آخری نام";
+
+/* Class = "UILabel"; text = "Robert Fox"; ObjectID = "Qeh-mJ-mN6"; */
+"Qeh-mJ-mN6.text" = "رابرٹ فاکس";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "RDU-lx-ZYt"; */
+"RDU-lx-ZYt.placeholder" = "ای میل";
+
+/* Class = "UILabel"; text = "Top Up"; ObjectID = "RFR-NZ-ScO"; */
+"RFR-NZ-ScO.text" = "رقم شامل کریں";
+
+/* Class = "UILabel"; text = "2200 SR"; ObjectID = "RJp-Hn-skz"; */
+"RJp-Hn-skz.text" = "2200 ریال";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "RQi-ed-mmR"; */
+"RQi-ed-mmR.text" = "لاگ آؤٹ";
+
+/* Class = "UILabel"; text = "Pending(Awaiting Customer Approval)"; ObjectID = "RTt-Su-Tdo"; */
+"RTt-Su-Tdo.text" = "زیر التواء (گاہک کی منظوری کا انتظار)";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Rdt-D3-Ne2"; */
+"Rdt-D3-Ne2.placeholder" = "پاسورڈ";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "SCl-2L-KFf"; */
+"SCl-2L-KFf.text" = "انگریزی";
+
+/* Class = "UIButton"; normalTitle = "Arabic"; ObjectID = "SKE-zf-9eq"; */
+"SKE-zf-9eq.normalTitle" = "عربی";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "SUT-35-O0D"; */
+"SUT-35-O0D.text" = "1";
+
+/* Class = "UILabel"; text = "My Review"; ObjectID = "SWg-kj-jgR"; */
+"SWg-kj-jgR.text" = "میرا جائزہ";
+
+/* Class = "UILabel"; text = "Enter old password"; ObjectID = "T3C-h3-JBE"; */
+"T3C-h3-JBE.text" = "پرانا پاسورڈ درج کریں";
+
+/* Class = "UILabel"; text = "Provide review rating"; ObjectID = "TAP-nJ-hdF"; */
+"TAP-nJ-hdF.text" = "جائزہ کی درجہ بندی فراہم کریں";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "TFF-WD-8bL"; */
+"TFF-WD-8bL.text" = "موبائل نمبر";
+
+/* Class = "UIButton"; normalTitle = "Ongoing"; ObjectID = "TU5-ag-yMf"; */
+"TU5-ag-yMf.normalTitle" = "جاری ہے";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "W7k-T0-61h"; */
+"W7k-T0-61h.text" = "بٹوہ";
+
+/* Class = "UIButton"; normalTitle = "See Map"; ObjectID = "WKH-FJ-vK1"; */
+"WKH-FJ-vK1.normalTitle" = "نقشہ دیکھیں";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "Wr3-KE-mIu"; */
+"Wr3-KE-mIu.text" = "پروفائل میں ترمیم کریں";
+
+/* Class = "UIButton"; normalTitle = "Urdu"; ObjectID = "XDc-ma-gVR"; */
+"XDc-ma-gVR.normalTitle" = "اردو";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "XZE-xD-Knr"; */
+"XZE-xD-Knr.normalTitle" = "پاسورڈ بھول گئے؟";
+
+/* Class = "UITextField"; placeholder = "Enter First Name"; ObjectID = "Ytv-FU-ev4"; */
+"Ytv-FU-ev4.placeholder" = "پہلا نام درج کریں";
+
+/* Class = "UILabel"; text = "Enter Your Offer"; ObjectID = "a1P-zZ-aD9"; */
+"a1P-zZ-aD9.text" = "اپنی پیشکش درج کریں";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a6K-Xi-cTy"; */
+"a6K-Xi-cTy.text" = "لیبل";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "aOJ-Vg-R5W"; */
+"aOJ-Vg-R5W.normalTitle" = "نہیں";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "aSn-b9-bw2"; */
+"aSn-b9-bw2.text" = "0";
+
+/* Class = "UILabel"; text = "moh@gmail.com"; ObjectID = "ag1-We-3u6"; */
+"ag1-We-3u6.text" = "moh@gmail.com";
+
+/* Class = "UILabel"; text = "Write down your question and problem and we would be happy to help about it"; ObjectID = "b3y-19-ZSF"; */
+"b3y-19-ZSF.text" = "اپنا سوال اور مسئلہ لکھیں، ہمیں مدد کرنے میں خوشی ہوگی";
+
+/* Class = "UITextField"; placeholder = "Enter amount"; ObjectID = "bQd-Bg-mRg"; */
+"bQd-Bg-mRg.placeholder" = "رقم درج کریں";
+
+/* Class = "UITextField"; placeholder = "Enter Vehicle Name"; ObjectID = "bRr-bZ-wcF"; */
+"bRr-bZ-wcF.placeholder" = "گاڑی کا نام درج کریں";
+
+/* Class = "UILabel"; text = "Payment Confirmation"; ObjectID = "bmU-xB-7ZY"; */
+"bmU-xB-7ZY.text" = "ادائیگی کی تصدیق";
+
+/* Class = "UILabel"; text = "Choose Your Language"; ObjectID = "bmU-yw-30e"; */
+"bmU-yw-30e.text" = "اپنی زبان منتخب کریں";
+
+/* Class = "UILabel"; text = "Rear View"; ObjectID = "c0H-yN-jQj"; */
+"c0H-yN-jQj.text" = "پچھلا منظر";
+
+/* Class = "UILabel"; text = "Account Number"; ObjectID = "c9s-aF-ldj"; */
+"c9s-aF-ldj.text" = "اکاؤنٹ نمبر";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "cLy-RN-uQB"; */
+"cLy-RN-uQB.placeholder" = "پہلا نام";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "ceB-J5-VJN"; */
+"ceB-J5-VJN.normalTitle" = "لاگ ان کریں";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "dVo-XZ-f0W"; */
+"dVo-XZ-f0W.normalTitle" = "قبول کریں";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dY6-Ve-0u6"; */
+"dY6-Ve-0u6.text" = "لیبل";
+
+/* Class = "UILabel"; text = "Select account type"; ObjectID = "dkz-kc-6c5"; */
+"dkz-kc-6c5.text" = "اکاؤنٹ کی قسم منتخب کریں";
+
+/* Class = "UILabel"; text = "mt mt"; ObjectID = "e35-RA-tCq"; */
+"e35-RA-tCq.text" = "ایم ٹی ایم ٹی";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "eUx-ty-NbN"; */
+"eUx-ty-NbN.text" = "پہلا نام";
+
+/* Class = "UILabel"; text = "Your Balance"; ObjectID = "elq-3S-DeC"; */
+"elq-3S-DeC.text" = "آپ کا بیلنس";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "enA-ba-TRv"; */
+"enA-ba-TRv.text" = "کل رقم";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "epT-jL-w0l"; */
+"epT-jL-w0l.text" = "رقم";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "evb-PF-CNL"; */
+"evb-PF-CNL.normalTitle" = "شروع کریں";
+
+/* Class = "UIButton"; normalTitle = "Select Vehicle Type"; ObjectID = "f0U-mi-A8K"; */
+"f0U-mi-A8K.normalTitle" = "گاڑی کی قسم منتخب کریں";
+
+/* Class = "UITextField"; placeholder = "Enter amount"; ObjectID = "fHv-7T-hkJ"; */
+"fHv-7T-hkJ.placeholder" = "رقم درج کریں";
+
+/* Class = "UIButton"; normalTitle = "Choose this location"; ObjectID = "fNL-kl-WT7"; */
+"fNL-kl-WT7.normalTitle" = "یہ مقام منتخب کریں";
+
+/* Class = "UILabel"; text = "Total: 20.00 SR"; ObjectID = "fOq-M0-S4n"; */
+"fOq-M0-S4n.text" = "کل: 20.00 ایس آر";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "fdt-x7-sNS"; */
+"fdt-x7-sNS.text" = "پاسورڈ تبدیل کریں";
+
+/* Class = "UILabel"; text = "Change the language"; ObjectID = "fhX-El-U1h"; */
+"fhX-El-U1h.text" = "زبان تبدیل کریں";
+
+/* Class = "UILabel"; text = "Enter new password"; ObjectID = "fka-Zv-8E6"; */
+"fka-Zv-8E6.text" = "نیا پاسورڈ درج کریں";
+
+/* Class = "UITextField"; placeholder = "Enter Last Name"; ObjectID = "fpW-2m-XEg"; */
+"fpW-2m-XEg.placeholder" = "آخری نام درج کریں";
+
+/* Class = "UILabel"; text = "2200 SR"; ObjectID = "gCP-U1-Ezr"; */
+"gCP-U1-Ezr.text" = "2200 ایس آر";
+
+/* Class = "UILabel"; text = " "; ObjectID = "gLs-K8-wSh"; */
+"gLs-K8-wSh.text" = " ";
+
+/* Class = "UILabel"; text = "Requests"; ObjectID = "gyl-lu-iC7"; */
+"gyl-lu-iC7.text" = "درخواستیں";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "heS-BQ-YQl"; */
+"heS-BQ-YQl.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "hjO-2i-2Jr"; */
+"hjO-2i-2Jr.normalTitle" = "منسوخ کریں";
+
+/* Class = "UILabel"; text = "Customer Note:"; ObjectID = "iXm-mB-v9B"; */
+"iXm-mB-v9B.text" = "صارف کا نوٹ:";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "ibY-o1-75D"; */
+"ibY-o1-75D.text" = "سائن ان کریں";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "iwu-J9-Xky"; */
+"iwu-J9-Xky.normalTitle" = "بھیجیں";
+
+/* Class = "UIButton"; normalTitle = "Select Service"; ObjectID = "jeV-xJ-JIk"; */
+"jeV-xJ-JIk.normalTitle" = "سروس منتخب کریں";
+
+/* Class = "UILabel"; text = "Choose Service Type"; ObjectID = "jf2-uo-EZM"; */
+"jf2-uo-EZM.text" = "سروس کی قسم منتخب کریں";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "kXf-zI-1M1"; */
+"kXf-zI-1M1.normalTitle" = "تصدیق کریں";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "lIR-zl-tlS"; */
+"lIR-zl-tlS.normalTitle" = "آگے بڑھیں";
+
+/* Class = "UIButton"; normalTitle = "Top Up"; ObjectID = "lTo-lq-LAL"; */
+"lTo-lq-LAL.normalTitle" = "بیلنس بڑھائیں";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "lzf-R1-D5D"; */
+"lzf-R1-D5D.normalTitle" = "رجسٹر کریں";
+
+/* Class = "UILabel"; text = "Yuuupi"; ObjectID = "mG4-Gs-hou"; */
+"mG4-Gs-hou.text" = "یوپیییی";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "mRF-IR-S31"; */
+"mRF-IR-S31.normalTitle" = "جمع کروائیں";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "mr7-dw-UdX"; */
+"mr7-dw-UdX.normalTitle" = "انگریزی";
+
+/* Class = "UILabel"; text = "Enter your email address to reset your password"; ObjectID = "mva-r7-oBO"; */
+"mva-r7-oBO.text" = "پاسورڈ ری سیٹ کرنے کے لیے اپنا ای میل پتہ درج کریں";
+
+/* Class = "UILabel"; text = "Application Fee"; ObjectID = "nSd-ct-mdj"; */
+"nSd-ct-mdj.text" = "درخواست فیس";
+
+/* Class = "UILabel"; text = "Side View"; ObjectID = "nUR-Ez-71a"; */
+"nUR-Ez-71a.text" = "سائیڈ ویو";
+
+/* Class = "UILabel"; text = "I have read the Terms & Condition and accept them"; ObjectID = "ng2-iT-Pe1"; */
+"ng2-iT-Pe1.text" = "میں نے شرائط و ضوابط کو پڑھ لیا ہے اور انہیں قبول کرتا ہوں";
+
+/* Class = "UITextField"; placeholder = "Address Type"; ObjectID = "ngf-T1-koW"; */
+"ngf-T1-koW.placeholder" = "پتہ کی قسم";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "nhg-08-O3C"; */
+"nhg-08-O3C.placeholder" = "پتہ";
+
+/* Class = "UISearchBar"; placeholder = "Search for Location"; ObjectID = "o1K-Zd-ZSM"; */
+"o1K-Zd-ZSM.placeholder" = "مقام تلاش کریں";
+
+/* Class = "UILabel"; text = "2200 SR"; ObjectID = "oYk-AU-Tyh"; */
+"oYk-AU-Tyh.text" = "2200 ایس آر";
+
+/* Class = "UILabel"; text = "Select Payment Method"; ObjectID = "pAd-Yn-dWT"; */
+"pAd-Yn-dWT.text" = "ادائیگی کا طریقہ منتخب کریں";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pAh-BQ-PrD"; */
+"pAh-BQ-PrD.text" = "لیبل";
+
+/* Class = "UITextField"; placeholder = "Enter Amount"; ObjectID = "pxa-he-dfk"; */
+"pxa-he-dfk.placeholder" = "رقم درج کریں";
+
+/* Class = "UIButton"; normalTitle = "Send To Requester"; ObjectID = "qCD-4z-4a4"; */
+"qCD-4z-4a4.normalTitle" = "درخواست کنندہ کو بھیجیں";
+
+/* Class = "UILabel"; text = "Topup successfully done"; ObjectID = "qD9-cb-5Mo"; */
+"qD9-cb-5Mo.text" = "ٹاپ اپ کامیابی سے مکمل ہوا";
+
+/* Class = "UIButton"; normalTitle = "Select account"; ObjectID = "qFj-fS-792"; */
+"qFj-fS-792.normalTitle" = "اکاؤنٹ منتخب کریں";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "qcl-lx-4IH"; */
+"qcl-lx-4IH.text" = "رقم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qeG-W8-VoE"; */
+"qeG-W8-VoE.text" = "لیبل";
+
+/* Class = "UIButton"; normalTitle = "Send Offer"; ObjectID = "qoD-Jx-cGY"; */
+"qoD-Jx-cGY.normalTitle" = "پیشکش بھیجیں";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "qwN-gl-PNg"; */
+"qwN-gl-PNg.normalTitle" = "جمع کروائیں";
+
+/* Class = "UIButton"; normalTitle = "Select Service Type"; ObjectID = "qzR-cT-q8d"; */
+"qzR-cT-q8d.normalTitle" = "سروس کی قسم منتخب کریں";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "r2Z-WB-IaO"; */
+"r2Z-WB-IaO.placeholder" = "پاس ورڈ کی تصدیق کریں";
+
+/* Class = "UILabel"; text = "SR 41.40 in your wallet"; ObjectID = "rWA-K4-tOW"; */
+"rWA-K4-tOW.text" = "آپ کے بٹوے میں 41.40 ایس آر";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "rtx-aA-buO"; */
+"rtx-aA-buO.placeholder" = "نام درج کریں";
+
+/* Class = "UITextField"; placeholder = "Enter"; ObjectID = "s4K-2f-FK3"; */
+"s4K-2f-FK3.placeholder" = "درج کریں";
+
+/* Class = "UILabel"; text = "Vehicle Type"; ObjectID = "snu-Cw-lhj"; */
+"snu-Cw-lhj.text" = "گاڑی کی قسم";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "tGd-yq-XOJ"; */
+"tGd-yq-XOJ.text" = "پاس ورڈ بھول گئے";
+
+/* Class = "UILabel"; text = "Share App"; ObjectID = "tIk-Dw-Xh4"; */
+"tIk-Dw-Xh4.text" = "ایپ شیئر کریں";
+
+/* Class = "UIButton"; normalTitle = "Select Payment Type"; ObjectID = "tRG-qR-aWi"; */
+"tRG-qR-aWi.normalTitle" = "ادائیگی کی قسم منتخب کریں";
+
+/* Class = "UITextField"; placeholder = "Mobile"; ObjectID = "tTg-pe-jJv"; */
+"tTg-pe-jJv.placeholder" = "موبائل";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "tZF-AS-bN1"; */
+"tZF-AS-bN1.text" = "والیٹ";
+
+/* Class = "UILabel"; text = "Transaction History"; ObjectID = "u2P-Df-kPg"; */
+"u2P-Df-kPg.text" = "ٹرانزیکشن ہسٹری";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "u6l-Ec-Xei"; */
+"u6l-Ec-Xei.title" = "ترتیبات";
+
+/* Class = "UILabel"; text = "Bank Name"; ObjectID = "u8e-m7-qcV"; */
+"u8e-m7-qcV.text" = "بینک کا نام";
+
+/* Class = "UILabel"; text = "Total Earning"; ObjectID = "uQF-IZ-tFB"; */
+"uQF-IZ-tFB.text" = "کل آمدنی";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "uc2-Ya-FDM"; */
+"uc2-Ya-FDM.placeholder" = "ای میل";
+
+/* Class = "UIButton"; normalTitle = "Send Request"; ObjectID = "vI8-bJ-qzv"; */
+"vI8-bJ-qzv.normalTitle" = "درخواست بھیجیں";
+
+/* Class = "UILabel"; text = "Vehicle Name"; ObjectID = "vLi-wd-X1g"; */
+"vLi-wd-X1g.text" = "گاڑی کا نام";
+
+/* Class = "UILabel"; text = "Account Holder Name"; ObjectID = "vva-h3-fZb"; */
+"vva-h3-fZb.text" = "اکاؤنٹ ہولڈر کا نام";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "w23-fn-NO0"; */
+"w23-fn-NO0.text" = "ترتیبات";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "xB0-L0-c1B"; */
+"xB0-L0-c1B.normalTitle" = "رجسٹر کریں";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xGK-cb-wQv"; */
+"xGK-cb-wQv.text" = "لیبل";
+
+/* Class = "UILabel"; text = "Execution"; ObjectID = "xH1-t1-ukN"; */
+"xH1-t1-ukN.text" = "عمل درآمد";
+
+/* Class = "UILabel"; text = "$1,200,150"; ObjectID = "xqH-Ua-xKU"; */
+"xqH-Ua-xKU.text" = "$1,200,150";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "xsD-Kp-Shr"; */
+"xsD-Kp-Shr.normalTitle" = "لاگ ان کریں";
+
+/* Class = "UILabel"; text = "Choose Service"; ObjectID = "yGB-S8-TF5"; */
+"yGB-S8-TF5.text" = "سروس منتخب کریں";
+
+/* Class = "UILabel"; text = "Delivery Type"; ObjectID = "yIq-YZ-dXl"; */
+"yIq-YZ-dXl.text" = "ڈیلیوری کی قسم";
+
+/* Class = "UIButton"; normalTitle = "Completed"; ObjectID = "ycy-2z-IbZ"; */
+"ycy-2z-IbZ.normalTitle" = "مکمل ہو گیا";
+
+/* Class = "UILabel"; text = "Delivered"; ObjectID = "yfn-EJ-CZh"; */
+"yfn-EJ-CZh.text" = "ڈیلیور ہو گیا";
+
+/* Class = "UILabel"; text = "Help Center"; ObjectID = "zDe-cr-WUT"; */
+"zDe-cr-WUT.text" = "مدد مرکز";
+
+/* Class = "UILabel"; text = "Distance range for provider service (In KM)"; ObjectID = "zxf-9N-QCn"; */
+"zxf-9N-QCn.text" = "فراہم کنندہ کی خدمت کے لیے فاصلے کی حد (کلومیٹر میں)";
+
+/* Class = "UITextField"; placeholder = "Enter Distance Range"; ObjectID = "fKy-MH-0J5"; */
+"fKy-MH-0J5.placeholder" = "فاصلہ کی حد درج کریں"; // Urdu
+
+/* Class = "UITextField"; placeholder = "Mobile"; ObjectID = "aeV-iC-Jor"; */
+"aeV-iC-Jor.placeholder" = "موبائل نمبر";
+
+/* Class = "UILabel"; text = "Enter your verification code"; ObjectID = "DV5-AI-D6U"; */
+"DV5-AI-D6U.text" = "اپنا توثیقی کوڈ درج کریں";
+
+/* Class = "UILabel"; text = "We sent you a verification code on your Mobile"; ObjectID = "EGn-lw-suZ"; */
+"EGn-lw-suZ.text" = "ہم نے آپ کے موبائل پر توثیقی کوڈ بھیجا ہے";
+
+/* Class = "UILabel"; text = "Don't Receive a Code?"; ObjectID = "kcC-dJ-Uhz"; */
+"kcC-dJ-Uhz.text" = "کوڈ موصول نہیں ہوا؟";
+
+/* Class = "UIButton"; normalTitle = "Resend"; ObjectID = "upP-9h-5vw"; */
+"upP-9h-5vw.normalTitle" = "دوبارہ بھیجیں";
+
+/* Class = "UIButton"; normalTitle = "Verification"; ObjectID = "j9N-cc-tUI"; */
+"j9N-cc-tUI.normalTitle" = "توثیق";

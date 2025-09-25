@@ -1,0 +1,564 @@
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "0yU-F9-JI7"; */
+"0yU-F9-JI7.normalTitle" = "نعم";
+
+/* Class = "UILabel"; text = "Order Date:"; ObjectID = "1K3-Nv-iul"; */
+"1K3-Nv-iul.text" = "تاريخ الطلب:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1a4-mg-Ls7"; */
+"1a4-mg-Ls7.text" = "تسمية";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "2BM-hr-oO6"; */
+"2BM-hr-oO6.normalTitle" = "رفض";
+
+/* Class = "UITextField"; placeholder = "Enter amount"; ObjectID = "2HU-Ez-yHd"; */
+"2HU-Ez-yHd.placeholder" = "أدخل المبلغ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2Ir-7l-Qs2"; */
+"2Ir-7l-Qs2.text" = "تسمية";
+
+/* Class = "UILabel"; text = "Front View"; ObjectID = "2PA-wv-tAe"; */
+"2PA-wv-tAe.text" = "العرض الأمامي";
+
+/* Class = "UILabel"; text = "How can we help you?"; ObjectID = "2Xh-Sk-DvQ"; */
+"2Xh-Sk-DvQ.text" = "كيف يمكننا مساعدتك؟";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "2cO-Yk-KV1"; */
+"2cO-Yk-KV1.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "Enter"; ObjectID = "2zv-aB-Tpd"; */
+"2zv-aB-Tpd.placeholder" = "أدخل";
+
+/* Class = "UILabel"; text = "SR 1509.09"; ObjectID = "3IW-jH-ot4"; */
+"3IW-jH-ot4.text" = "ر.س 1509.09";
+
+/* Class = "UILabel"; text = "Your Balance"; ObjectID = "3Pp-bH-SxW"; */
+"3Pp-bH-SxW.text" = "رصيدك";
+
+/* Class = "UILabel"; text = "4.0"; ObjectID = "3VB-3P-U0K"; */
+"3VB-3P-U0K.text" = "4.0";
+
+/* Class = "UIButton"; normalTitle = "ok"; ObjectID = "3w6-7O-Piv"; */
+"3w6-7O-Piv.normalTitle" = "موافق";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "4uO-Ht-ib1"; */
+"4uO-Ht-ib1.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4yb-zx-N90"; */
+"4yb-zx-N90.text" = "تسمية";
+
+/* Class = "UIButton"; normalTitle = "Select Delivery Type"; ObjectID = "5EO-FE-m0y"; */
+"5EO-FE-m0y.normalTitle" = "اختر نوع التوصيل";
+
+/* Class = "UITextField"; placeholder = "Mobile"; ObjectID = "5VC-Hz-YgI"; */
+"5VC-Hz-YgI.placeholder" = "الجوال";
+
+/* Class = "UILabel"; text = "Delivery Cost"; ObjectID = "6fQ-y4-jfb"; */
+"6fQ-y4-jfb.text" = "تكلفة التوصيل";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "6pC-Yu-968"; */
+"6pC-Yu-968.title" = "الرئيسية";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "74m-wD-kxz"; */
+"74m-wD-kxz.text" = "إنشاء حساب";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "7Cn-bx-nMQ"; */
+"7Cn-bx-nMQ.text" = "١";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "7NZ-fT-xcV"; */
+"7NZ-fT-xcV.normalTitle" = "إلغاء";
+
+/* Class = "UIButton"; normalTitle = "Withdraw"; ObjectID = "7Ne-S2-3fk"; */
+"7Ne-S2-3fk.normalTitle" = "سحب";
+
+/* Class = "UILabel"; text = "Request Status:"; ObjectID = "7Te-Fp-c5V"; */
+"7Te-Fp-c5V.text" = "حالة الطلب:";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "7ii-qT-DeE"; */
+"7ii-qT-DeE.normalTitle" = "حفظ";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "7mu-u5-aV5"; */
+"7mu-u5-aV5.normalTitle" = "إرسال";
+
+/* Class = "UILabel"; text = "Your trusted partner for all your construction needs"; ObjectID = "AOc-au-ksW"; */
+"AOc-au-ksW.text" = "شريكك الموثوق لجميع احتياجات البناء الخاصة بك";
+
+/* Class = "UILabel"; text = "IBAN Number"; ObjectID = "APL-bo-EJn"; */
+"APL-bo-EJn.text" = "رقم الآيبان";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "AQK-x9-QKG"; */
+"AQK-x9-QKG.placeholder" = "كلمة مرور جديدة";
+
+/* Class = "UIButton"; normalTitle = "New Request"; ObjectID = "AnW-6R-6e7"; */
+"AnW-6R-6e7.normalTitle" = "طلب جديد";
+
+/* Class = "UILabel"; text = "Pending(Awaiting Customer Approval)"; ObjectID = "Bda-pg-NQF"; */
+"Bda-pg-NQF.text" = "قيد الانتظار (بانتظار موافقة العميل)";
+
+/* Class = "UILabel"; text = "Welcome! Please enter your information below and get started."; ObjectID = "D1Q-FP-Gui"; */
+"D1Q-FP-Gui.text" = "مرحبًا! يرجى إدخال معلوماتك أدناه للبدء.";
+
+/* Class = "UILabel"; text = "Confirm password"; ObjectID = "D5g-mg-EHE"; */
+"D5g-mg-EHE.text" = "تأكيد كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "EJR-8w-jdY"; */
+"EJR-8w-jdY.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EN1-J0-goK"; */
+"EN1-J0-goK.text" = "تسمية";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "ENf-sJ-jeC"; */
+"ENf-sJ-jeC.normalTitle" = "إرسال";
+
+/* Class = "UILabel"; text = "2025-02-06 02:53:23"; ObjectID = "EnP-t2-UYG"; */
+"EnP-t2-UYG.text" = "2025-02-06 02:53:23";
+
+/* Class = "UILabel"; text = "Receiving offers"; ObjectID = "FBp-fe-ykN"; */
+"FBp-fe-ykN.text" = "استلام العروض";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FEp-ro-AD6"; */
+"FEp-ro-AD6.text" = "تسمية";
+
+/* Class = "UITextView"; text = "Search Location"; ObjectID = "FHN-Cy-aLG"; */
+"FHN-Cy-aLG.text" = "ابحث عن الموقع";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "FdF-W7-nsk"; */
+"FdF-W7-nsk.text" = "مرحبًا";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FuP-2h-4bT"; */
+"FuP-2h-4bT.text" = "تسمية";
+
+/* Class = "UILabel"; text = "Confirmed"; ObjectID = "Fxy-3t-uWZ"; */
+"Fxy-3t-uWZ.text" = "تم التأكيد";
+
+/* Class = "UILabel"; text = "Vehicle Images/Service Provider"; ObjectID = "GVm-Gz-D3a"; */
+"GVm-Gz-D3a.text" = "صور المركبة / مزود الخدمة";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "HN0-nA-VzC"; */
+"HN0-nA-VzC.placeholder" = "أدخل الاسم";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "I7f-US-d26"; */
+"I7f-US-d26.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "JR4-1u-CSh"; */
+"JR4-1u-CSh.text" = "الإنجليزية";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "Jc8-1o-TAd"; */
+"Jc8-1o-TAd.text" = "سياسة الخصوصية";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "Jqp-rb-Phw"; */
+"Jqp-rb-Phw.text" = "إعادة تعيين كلمة المرور";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "LeQ-WY-Zi9"; */
+"LeQ-WY-Zi9.text" = "الإشعارات";
+
+/* Class = "UILabel"; text = "Find Address"; ObjectID = "N0Z-Yi-eOp"; */
+"N0Z-Yi-eOp.text" = "ابحث عن العنوان";
+
+/* Class = "UITabBarItem"; title = "Notifications"; ObjectID = "NIp-YF-KR1"; */
+"NIp-YF-KR1.title" = "الإشعارات";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "OHn-zM-tzs"; */
+"OHn-zM-tzs.text" = "حذف الحساب";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "ORY-ad-YQw"; */
+"ORY-ad-YQw.normalTitle" = "تخطي";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OkV-E6-iO1"; */
+"OkV-E6-iO1.text" = "تسمية";
+
+/* Class = "UILabel"; text = "Un-Available"; ObjectID = "P1G-zE-B5D"; */
+"P1G-zE-B5D.text" = "غير متوفر";
+
+/* Class = "UILabel"; text = "Driving Experience"; ObjectID = "PP4-g7-Tqv"; */
+"PP4-g7-Tqv.text" = "خبرة القيادة";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "Pjh-Nm-lAJ"; */
+"Pjh-Nm-lAJ.placeholder" = "اسم العائلة";
+
+/* Class = "UILabel"; text = "Enter withdraw amount"; ObjectID = "QL4-fg-GqE"; */
+"QL4-fg-GqE.text" = "أدخل مبلغ السحب";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "QP1-J2-tZ8"; */
+"QP1-J2-tZ8.text" = "اسم العائلة";
+
+/* Class = "UILabel"; text = "Robert Fox"; ObjectID = "Qeh-mJ-mN6"; */
+"Qeh-mJ-mN6.text" = "روبرت فوكس";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "RDU-lx-ZYt"; */
+"RDU-lx-ZYt.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "Top Up"; ObjectID = "RFR-NZ-ScO"; */
+"RFR-NZ-ScO.text" = "إعادة الشحن";
+
+/* Class = "UILabel"; text = "2200 SR"; ObjectID = "RJp-Hn-skz"; */
+"RJp-Hn-skz.text" = "٢٢٠٠ ر.س";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "RQi-ed-mmR"; */
+"RQi-ed-mmR.text" = "تسجيل الخروج";
+
+/* Class = "UILabel"; text = "Pending(Awaiting Customer Approval)"; ObjectID = "RTt-Su-Tdo"; */
+"RTt-Su-Tdo.text" = "قيد الانتظار (بانتظار موافقة العميل)";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Rdt-D3-Ne2"; */
+"Rdt-D3-Ne2.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "SCl-2L-KFf"; */
+"SCl-2L-KFf.text" = "الإنجليزية";
+
+/* Class = "UIButton"; normalTitle = "Arabic"; ObjectID = "SKE-zf-9eq"; */
+"SKE-zf-9eq.normalTitle" = "العربية";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "SUT-35-O0D"; */
+"SUT-35-O0D.text" = "١";
+
+/* Class = "UILabel"; text = "My Review"; ObjectID = "SWg-kj-jgR"; */
+"SWg-kj-jgR.text" = "تقييمي";
+
+/* Class = "UILabel"; text = "Enter old password"; ObjectID = "T3C-h3-JBE"; */
+"T3C-h3-JBE.text" = "أدخل كلمة المرور القديمة";
+
+/* Class = "UILabel"; text = "Provide review rating"; ObjectID = "TAP-nJ-hdF"; */
+"TAP-nJ-hdF.text" = "أدخل تقييم المراجعة";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "TFF-WD-8bL"; */
+"TFF-WD-8bL.text" = "رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "Ongoing"; ObjectID = "TU5-ag-yMf"; */
+"TU5-ag-yMf.normalTitle" = "جارٍ التنفيذ";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "W7k-T0-61h"; */
+"W7k-T0-61h.text" = "المحفظة";
+
+/* Class = "UIButton"; normalTitle = "See Map"; ObjectID = "WKH-FJ-vK1"; */
+"WKH-FJ-vK1.normalTitle" = "عرض الخريطة";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "Wr3-KE-mIu"; */
+"Wr3-KE-mIu.text" = "تعديل الملف الشخصي";
+
+/* Class = "UIButton"; normalTitle = "Urdu"; ObjectID = "XDc-ma-gVR"; */
+"XDc-ma-gVR.normalTitle" = "الأردية";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "XZE-xD-Knr"; */
+"XZE-xD-Knr.normalTitle" = "نسيت كلمة المرور؟";
+
+/* Class = "UITextField"; placeholder = "Enter First Name"; ObjectID = "Ytv-FU-ev4"; */
+"Ytv-FU-ev4.placeholder" = "أدخل الاسم الأول";
+
+/* Class = "UILabel"; text = "Enter Your Offer"; ObjectID = "a1P-zZ-aD9"; */
+"a1P-zZ-aD9.text" = "أدخل عرضك";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a6K-Xi-cTy"; */
+"a6K-Xi-cTy.text" = "تسمية";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "aOJ-Vg-R5W"; */
+"aOJ-Vg-R5W.normalTitle" = "لا";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "aSn-b9-bw2"; */
+"aSn-b9-bw2.text" = "٠";
+
+/* Class = "UILabel"; text = "moh@gmail.com"; ObjectID = "ag1-We-3u6"; */
+"ag1-We-3u6.text" = "moh@gmail.com";
+
+/* Class = "UILabel"; text = "Write down your question and problem and we would be happy to help about it"; ObjectID = "b3y-19-ZSF"; */
+"b3y-19-ZSF.text" = "اكتب سؤالك ومشكلتك وسيسعدنا مساعدتك في ذلك";
+
+/* Class = "UITextField"; placeholder = "Enter amount"; ObjectID = "bQd-Bg-mRg"; */
+"bQd-Bg-mRg.placeholder" = "أدخل المبلغ";
+
+/* Class = "UITextField"; placeholder = "Enter Vehicle Name"; ObjectID = "bRr-bZ-wcF"; */
+"bRr-bZ-wcF.placeholder" = "أدخل اسم المركبة";
+
+/* Class = "UILabel"; text = "Payment Confirmation"; ObjectID = "bmU-xB-7ZY"; */
+"bmU-xB-7ZY.text" = "تأكيد الدفع";
+
+/* Class = "UILabel"; text = "Choose Your Language"; ObjectID = "bmU-yw-30e"; */
+"bmU-yw-30e.text" = "اختر لغتك";
+
+/* Class = "UILabel"; text = "Rear View"; ObjectID = "c0H-yN-jQj"; */
+"c0H-yN-jQj.text" = "العرض الخلفي";
+
+/* Class = "UILabel"; text = "Account Number"; ObjectID = "c9s-aF-ldj"; */
+"c9s-aF-ldj.text" = "رقم الحساب";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "cLy-RN-uQB"; */
+"cLy-RN-uQB.placeholder" = "الاسم الأول";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "ceB-J5-VJN"; */
+"ceB-J5-VJN.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "dVo-XZ-f0W"; */
+"dVo-XZ-f0W.normalTitle" = "قبول";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dY6-Ve-0u6"; */
+"dY6-Ve-0u6.text" = "تسمية";
+
+/* Class = "UILabel"; text = "Select account type"; ObjectID = "dkz-kc-6c5"; */
+"dkz-kc-6c5.text" = "اختر نوع الحساب";
+
+/* Class = "UILabel"; text = "mt mt"; ObjectID = "e35-RA-tCq"; */
+"e35-RA-tCq.text" = "مت مت"; // Assuming abbreviation, left as is
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "eUx-ty-NbN"; */
+"eUx-ty-NbN.text" = "الاسم الأول";
+
+/* Class = "UILabel"; text = "Your Balance"; ObjectID = "elq-3S-DeC"; */
+"elq-3S-DeC.text" = "رصيدك";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "enA-ba-TRv"; */
+"enA-ba-TRv.text" = "المبلغ الإجمالي";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "epT-jL-w0l"; */
+"epT-jL-w0l.text" = "المبلغ";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "evb-PF-CNL"; */
+"evb-PF-CNL.normalTitle" = "ابدأ الآن";
+
+/* Class = "UIButton"; normalTitle = "Select Vehicle Type"; ObjectID = "f0U-mi-A8K"; */
+"f0U-mi-A8K.normalTitle" = "اختر نوع المركبة";
+
+/* Class = "UITextField"; placeholder = "Enter amount"; ObjectID = "fHv-7T-hkJ"; */
+"fHv-7T-hkJ.placeholder" = "أدخل المبلغ";
+
+/* Class = "UIButton"; normalTitle = "Choose this location"; ObjectID = "fNL-kl-WT7"; */
+"fNL-kl-WT7.normalTitle" = "اختر هذا الموقع";
+
+/* Class = "UILabel"; text = "Total: 20.00 SR"; ObjectID = "fOq-M0-S4n"; */
+"fOq-M0-S4n.text" = "الإجمالي: ٢٠.٠٠ ريال";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "fdt-x7-sNS"; */
+"fdt-x7-sNS.text" = "تغيير كلمة المرور";
+
+/* Class = "UILabel"; text = "Change the language"; ObjectID = "fhX-El-U1h"; */
+"fhX-El-U1h.text" = "تغيير اللغة";
+
+/* Class = "UILabel"; text = "Enter new password"; ObjectID = "fka-Zv-8E6"; */
+"fka-Zv-8E6.text" = "أدخل كلمة المرور الجديدة";
+
+/* Class = "UITextField"; placeholder = "Enter Last Name"; ObjectID = "fpW-2m-XEg"; */
+"fpW-2m-XEg.placeholder" = "أدخل الاسم الأخير";
+
+/* Class = "UILabel"; text = "2200 SR"; ObjectID = "gCP-U1-Ezr"; */
+"gCP-U1-Ezr.text" = "٢٢٠٠ ريال";
+
+/* Class = "UILabel"; text = " "; ObjectID = "gLs-K8-wSh"; */
+"gLs-K8-wSh.text" = " ";
+
+/* Class = "UILabel"; text = "Requests"; ObjectID = "gyl-lu-iC7"; */
+"gyl-lu-iC7.text" = "الطلبات";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "heS-BQ-YQl"; */
+"heS-BQ-YQl.text" = "١";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "hjO-2i-2Jr"; */
+"hjO-2i-2Jr.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "Customer Note:"; ObjectID = "iXm-mB-v9B"; */
+"iXm-mB-v9B.text" = "ملاحظة العميل:";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "ibY-o1-75D"; */
+"ibY-o1-75D.text" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "iwu-J9-Xky"; */
+"iwu-J9-Xky.normalTitle" = "إرسال";
+
+/* Class = "UIButton"; normalTitle = "Select Service"; ObjectID = "jeV-xJ-JIk"; */
+"jeV-xJ-JIk.normalTitle" = "اختر الخدمة";
+
+/* Class = "UILabel"; text = "Choose Service Type"; ObjectID = "jf2-uo-EZM"; */
+"jf2-uo-EZM.text" = "اختر نوع الخدمة";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "kXf-zI-1M1"; */
+"kXf-zI-1M1.normalTitle" = "تأكيد";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "lIR-zl-tlS"; */
+"lIR-zl-tlS.normalTitle" = "متابعة";
+
+/* Class = "UIButton"; normalTitle = "Top Up"; ObjectID = "lTo-lq-LAL"; */
+"lTo-lq-LAL.normalTitle" = "شحن الرصيد";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "lzf-R1-D5D"; */
+"lzf-R1-D5D.normalTitle" = "إنشاء حساب";
+
+/* Class = "UILabel"; text = "Yuuupi"; ObjectID = "mG4-Gs-hou"; */
+"mG4-Gs-hou.text" = "يـــوووويبي"; // Left as an expression
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "mRF-IR-S31"; */
+"mRF-IR-S31.normalTitle" = "إرسال";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "mr7-dw-UdX"; */
+"mr7-dw-UdX.normalTitle" = "الإنجليزية";
+
+/* Class = "UILabel"; text = "Enter your mobile number to reset your password"; ObjectID = "mva-r7-oBO"; */
+"mva-r7-oBO.text" = "أدخل رقم جوالك لإعادة تعيين كلمة المرور";
+
+/* Class = "UILabel"; text = "Application Fee"; ObjectID = "nSd-ct-mdj"; */
+"nSd-ct-mdj.text" = "رسوم التقديم";
+
+/* Class = "UILabel"; text = "Side View"; ObjectID = "nUR-Ez-71a"; */
+"nUR-Ez-71a.text" = "عرض جانبي";
+
+/* Class = "UILabel"; text = "I have read the Terms & Condition and accept them"; ObjectID = "ng2-iT-Pe1"; */
+"ng2-iT-Pe1.text" = "لقد قرأت الشروط والأحكام وأوافق عليها";
+
+/* Class = "UITextField"; placeholder = "Address Type"; ObjectID = "ngf-T1-koW"; */
+"ngf-T1-koW.placeholder" = "نوع العنوان";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "nhg-08-O3C"; */
+"nhg-08-O3C.placeholder" = "العنوان";
+
+/* Class = "UISearchBar"; placeholder = "Search for Location"; ObjectID = "o1K-Zd-ZSM"; */
+"o1K-Zd-ZSM.placeholder" = "ابحث عن موقع";
+
+/* Class = "UILabel"; text = "2200 SR"; ObjectID = "oYk-AU-Tyh"; */
+"oYk-AU-Tyh.text" = "٢٢٠٠ ريال";
+
+/* Class = "UILabel"; text = "Select Payment Method"; ObjectID = "pAd-Yn-dWT"; */
+"pAd-Yn-dWT.text" = "اختر طريقة الدفع";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pAh-BQ-PrD"; */
+"pAh-BQ-PrD.text" = "تسمية";
+
+/* Class = "UITextField"; placeholder = "Enter Amount"; ObjectID = "pxa-he-dfk"; */
+"pxa-he-dfk.placeholder" = "أدخل المبلغ";
+
+/* Class = "UIButton"; normalTitle = "Send To Requester"; ObjectID = "qCD-4z-4a4"; */
+"qCD-4z-4a4.normalTitle" = "أرسل إلى الطالب";
+
+/* Class = "UILabel"; text = "Topup successfully done"; ObjectID = "qD9-cb-5Mo"; */
+"qD9-cb-5Mo.text" = "تمت عملية الشحن بنجاح";
+
+/* Class = "UIButton"; normalTitle = "Select account"; ObjectID = "qFj-fS-792"; */
+"qFj-fS-792.normalTitle" = "اختر الحساب";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "qcl-lx-4IH"; */
+"qcl-lx-4IH.text" = "المبلغ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qeG-W8-VoE"; */
+"qeG-W8-VoE.text" = "تسمية";
+
+/* Class = "UIButton"; normalTitle = "Send Offer"; ObjectID = "qoD-Jx-cGY"; */
+"qoD-Jx-cGY.normalTitle" = "أرسل العرض";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "qwN-gl-PNg"; */
+"qwN-gl-PNg.normalTitle" = "إرسال";
+
+/* Class = "UIButton"; normalTitle = "Select Service Type"; ObjectID = "qzR-cT-q8d"; */
+"qzR-cT-q8d.normalTitle" = "اختر نوع الخدمة";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "r2Z-WB-IaO"; */
+"r2Z-WB-IaO.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UILabel"; text = "SR 41.40 in your wallet"; ObjectID = "rWA-K4-tOW"; */
+"rWA-K4-tOW.text" = "٤١٫٤٠ ريال في محفظتك";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "rtx-aA-buO"; */
+"rtx-aA-buO.placeholder" = "أدخل الاسم";
+
+/* Class = "UITextField"; placeholder = "Enter"; ObjectID = "s4K-2f-FK3"; */
+"s4K-2f-FK3.placeholder" = "أدخل";
+
+/* Class = "UILabel"; text = "Vehicle Type"; ObjectID = "snu-Cw-lhj"; */
+"snu-Cw-lhj.text" = "نوع المركبة";
+
+/* Class = "UILabel"; text = "Verify Mobile Number"; ObjectID = "tGd-yq-XOJ"; */
+"tGd-yq-XOJ.text" = "تحقق من رقم الهاتف المحمول";
+
+/* Class = "UILabel"; text = "Share App"; ObjectID = "tIk-Dw-Xh4"; */
+"tIk-Dw-Xh4.text" = "مشاركة التطبيق";
+
+/* Class = "UIButton"; normalTitle = "Select Payment Type"; ObjectID = "tRG-qR-aWi"; */
+"tRG-qR-aWi.normalTitle" = "اختر نوع الدفع";
+
+/* Class = "UITextField"; placeholder = "Mobile"; ObjectID = "tTg-pe-jJv"; */
+"tTg-pe-jJv.placeholder" = "الجوال";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "tZF-AS-bN1"; */
+"tZF-AS-bN1.text" = "المحفظة";
+
+/* Class = "UILabel"; text = "Transaction History"; ObjectID = "u2P-Df-kPg"; */
+"u2P-Df-kPg.text" = "سجل المعاملات";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "u6l-Ec-Xei"; */
+"u6l-Ec-Xei.title" = "الإعدادات";
+
+/* Class = "UILabel"; text = "Bank Name"; ObjectID = "u8e-m7-qcV"; */
+"u8e-m7-qcV.text" = "اسم البنك";
+
+/* Class = "UILabel"; text = "Total Earning"; ObjectID = "uQF-IZ-tFB"; */
+"uQF-IZ-tFB.text" = "إجمالي الأرباح";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "uc2-Ya-FDM"; */
+"uc2-Ya-FDM.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UIButton"; normalTitle = "Send Request"; ObjectID = "vI8-bJ-qzv"; */
+"vI8-bJ-qzv.normalTitle" = "إرسال الطلب";
+
+/* Class = "UILabel"; text = "Vehicle Name/Service Provider"; ObjectID = "vLi-wd-X1g"; */
+"vLi-wd-X1g.text" = "اسم المركبة / مزود الخدمة";
+
+/* Class = "UILabel"; text = "Account Holder Name"; ObjectID = "vva-h3-fZb"; */
+"vva-h3-fZb.text" = "اسم صاحب الحساب";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "w23-fn-NO0"; */
+"w23-fn-NO0.text" = "الإعدادات";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "xB0-L0-c1B"; */
+"xB0-L0-c1B.normalTitle" = "تسجيل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xGK-cb-wQv"; */
+"xGK-cb-wQv.text" = "تسمية";
+
+/* Class = "UILabel"; text = "Execution"; ObjectID = "xH1-t1-ukN"; */
+"xH1-t1-ukN.text" = "تنفيذ";
+
+/* Class = "UILabel"; text = "$1,200,150"; ObjectID = "xqH-Ua-xKU"; */
+"xqH-Ua-xKU.text" = "$1,200,150"; // (Usually not translated)
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "xsD-Kp-Shr"; */
+"xsD-Kp-Shr.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Choose Service"; ObjectID = "yGB-S8-TF5"; */
+"yGB-S8-TF5.text" = "اختر الخدمة";
+
+/* Class = "UILabel"; text = "Delivery Type"; ObjectID = "yIq-YZ-dXl"; */
+"yIq-YZ-dXl.text" = "نوع التوصيل";
+
+/* Class = "UIButton"; normalTitle = "Completed"; ObjectID = "ycy-2z-IbZ"; */
+"ycy-2z-IbZ.normalTitle" = "مكتمل";
+
+/* Class = "UILabel"; text = "Delivered"; ObjectID = "yfn-EJ-CZh"; */
+"yfn-EJ-CZh.text" = "تم التوصيل";
+
+/* Class = "UILabel"; text = "Help Center"; ObjectID = "zDe-cr-WUT"; */
+"zDe-cr-WUT.text" = "مركز المساعدة";
+
+/* Class = "UILabel"; text = "Distance range for provider service (In KM)"; ObjectID = "zxf-9N-QCn"; */
+"zxf-9N-QCn.text" = "نطاق المسافة لخدمة المزود (بالكيلومترات)"; // Arabic
+
+/* Class = "UITextField"; placeholder = "Enter Distance Range"; ObjectID = "fKy-MH-0J5"; */
+"fKy-MH-0J5.placeholder" = "أدخل نطاق المسافة"; // Arabic
+
+/* Class = "UITextField"; placeholder = "Mobile"; ObjectID = "aeV-iC-Jor"; */
+"aeV-iC-Jor.placeholder" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "Enter your verification code"; ObjectID = "DV5-AI-D6U"; */
+"DV5-AI-D6U.text" = "أدخل رمز التحقق";
+
+/* Class = "UILabel"; text = "We sent you a verification code on your Mobile"; ObjectID = "EGn-lw-suZ"; */
+"EGn-lw-suZ.text" = "لقد أرسلنا رمز تحقق إلى جوالك";
+
+/* Class = "UILabel"; text = "Don't Receive a Code?"; ObjectID = "kcC-dJ-Uhz"; */
+"kcC-dJ-Uhz.text" = "لم تستلم رمزًا؟";
+
+/* Class = "UIButton"; normalTitle = "Resend"; ObjectID = "upP-9h-5vw"; */
+"upP-9h-5vw.normalTitle" = "إعادة إرسال";
+
+/* Class = "UIButton"; normalTitle = "Verification"; ObjectID = "j9N-cc-tUI"; */
+"j9N-cc-tUI.normalTitle" = "التحقق";
+
+/* Class = "UILabel"; text = "Choose Address"; ObjectID = "N0j-vi-PS7"; */
+"N0j-vi-PS7.text" = "اختر العنوان";
+
+/* Class = "UITextField"; placeholder = "Mobile"; ObjectID = "Cvo-ie-E2h"; */
+"Cvo-ie-E2h.placeholder" = "الجوال";

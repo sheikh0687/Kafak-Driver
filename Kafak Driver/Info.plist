@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>KafakDriverApp</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>cairo_bold.ttf</string>
+		<string>cairo_light.ttf</string>
+		<string>cairo_regular.ttf</string>
+	</array>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Kaffak requires constant access to your phone’s location to notify to user.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Kaffak requires constant access to your phone’s location to notify to user.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This allow us to access your gallary to update your profile picture</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This allow us to access your camera to update your profile picture</string>
+</dict>
+</plist>

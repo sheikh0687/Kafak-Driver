@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "6"; ObjectID = "4Cc-Wt-lJ2"; */
+"4Cc-Wt-lJ2.text" = "6";
+
+/* Class = "UILabel"; text = "$20"; ObjectID = "6ZH-K0-5rF"; */
+"6ZH-K0-5rF.text" = "$20";
+
+/* Class = "UILabel"; text = "4.0"; ObjectID = "Gad-q2-9EE"; */
+"Gad-q2-9EE.text" = "4.0";
+
+/* Class = "UILabel"; text = " Willion Shades"; ObjectID = "H19-yY-8uQ"; */
+"H19-yY-8uQ.text" = " Willion Shades";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "J2E-qi-vbf"; */
+"J2E-qi-vbf.normalTitle" = "Accept";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "Qcy-wN-VqQ"; */
+"Qcy-wN-VqQ.normalTitle" = "Reject";
+
+/* Class = "UILabel"; text = "2025-02-20 01:36:13"; ObjectID = "Vds-x0-LoK"; */
+"Vds-x0-LoK.text" = "2025-02-20 01:36:13";
+
+/* Class = "UILabel"; text = "Request status: Soon Request"; ObjectID = "b2c-8S-8BX"; */
+"b2c-8S-8BX.text" = "Request status: Soon Request";
+
+/* Class = "UIButton"; normalTitle = "Send Offer"; ObjectID = "hBc-DR-wjT"; */
+"hBc-DR-wjT.normalTitle" = "Send Offer";
+
+/* Class = "UILabel"; text = "Request for: Bricks (300 bricks)"; ObjectID = "kV6-wk-qTj"; */
+"kV6-wk-qTj.text" = "Request for: Bricks (300 bricks)";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "sfS-jU-Fnp"; */
+"sfS-jU-Fnp.text" = "1";
+
+/* Class = "UILabel"; text = "3,690 Km"; ObjectID = "w0E-o0-41W"; */
+"w0E-o0-41W.text" = "3,690 Km";
